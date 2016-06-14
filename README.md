@@ -51,10 +51,10 @@ Este projeto nasceu para estimular o uso do [português claro](https://pt.wikipe
 ###T
 
 ###U
-- [User](https://en.wikipedia.org/wiki/User) → Usuário (tradução literal).
-- [User experience](https://en.wikipedia.org/wiki/User_experience)) → Experiência do usuário (tradução literal).<br/>
-[Ver discussão](https://github.com/italomen/glossario_interface/issues/1)
-<br/>
+- [User](https://en.wikipedia.org/wiki/User) → Usuário.
+- [User experience](https://en.wikipedia.org/wiki/User_experience) → Experiência do usuário.<br/>
+([Ver discussão](https://github.com/italomen/glossario_interface/issues/1))<br/>
+
 ###V
 
 ###W
