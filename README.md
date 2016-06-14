@@ -8,16 +8,16 @@ Este projeto nasceu para estimular o uso do [português claro](https://pt.wikipe
 
 <br/>
 
-Por que traduzir?  •  Como as traduções são feitas  •  Como contribuir
+**Mais informações:**<br/>
+[Por que traduzir?](https://github.com/italomen/glossario_interface/blob/master/COMO_FUNCIONA.md#por-que-traduzir)  •  [Como as traduções são feitas](https://github.com/italomen/glossario_interface/blob/master/COMO_FUNCIONA.md#como-as-traduções-são-feitas)  •  [Como contribuir](https://github.com/italomen/glossario_interface/blob/master/COMO_FUNCIONA.md#como-contribuir)
 
-<br/>
-
+--
 
 **Sumário:**<br/>
 [A](https://github.com/italomen/glossario_interface#a) • [B](https://github.com/italomen/glossario_interface#b) • [C](https://github.com/italomen/glossario_interface#c) • [D](https://github.com/italomen/glossario_interface#d) • [E](https://github.com/italomen/glossario_interface#e) • [F](https://github.com/italomen/glossario_interface#f) • [G](https://github.com/italomen/glossario_interface#g) • [H](https://github.com/italomen/glossario_interface#h) • [I](https://github.com/italomen/glossario_interface#i) • [J](https://github.com/italomen/glossario_interface#j) • [K](https://github.com/italomen/glossario_interface#k) • [L](https://github.com/italomen/glossario_interface#l) • [M](https://github.com/italomen/glossario_interface#m) • [N](https://github.com/italomen/glossario_interface#n) • [O](https://github.com/italomen/glossario_interface#o) • [P](https://github.com/italomen/glossario_interface#p) • [Q](https://github.com/italomen/glossario_interface#q) • [R](https://github.com/italomen/glossario_interface#r) • [S](https://github.com/italomen/glossario_interface#s) • [T](https://github.com/italomen/glossario_interface#t) • [U](https://github.com/italomen/glossario_interface#u) • [V](https://github.com/italomen/glossario_interface#v) • [W](https://github.com/italomen/glossario_interface#w) • [X](https://github.com/italomen/glossario_interface#x) • [Y](https://github.com/italomen/glossario_interface#y) • [Z](https://github.com/italomen/glossario_interface#z)
 
 <br/>
---
+
 
 ###A
 
