@@ -2,14 +2,15 @@ Glossário das Interfaces Digitais
 =============
 
 **Introdução:**<br/>
-Este projeto nasceu para estimular o uso do [português claro](https://pt.wikipedia.org/wiki/Portugu%C3%AAs_claro) em contextos que envolvam discussões sobre interfaces digitais. A ideia central deste glossário é discutir e propor traduções de termos em língua estrangeira para o português.
+Este projeto nasceu para estimular o uso do [português claro](https://pt.wikipedia.org/wiki/Portugu%C3%AAs_claro) em contextos que envolvam discussões sobre interfaces digitais. A ideia central deste glossário é discutir e propor traduções de termos técnicos em língua estrangeira para o português, e assim, estimular conversas mais acessíveis e com menos mal-entendidos.
 
 > "Português claro é uma forma de Português escrito ou oral que procura ser fácil e claro para o leitor." (Wikipedia)
+
 
 <br/>
 
 **Mais informações:**<br/>
-[Por que traduzir?](https://github.com/italomen/glossario_interface/blob/master/COMO_FUNCIONA.md#por-que-traduzir)  •  [Como as traduções são feitas](https://github.com/italomen/glossario_interface/blob/master/COMO_FUNCIONA.md#como-as-traduções-são-feitas)  •  [Como contribuir](https://github.com/italomen/glossario_interface/blob/master/COMO_FUNCIONA.md#como-contribuir)
+[Por que traduzir?](https://github.com/italomen/glossario_interface/blob/master/COMO_FUNCIONA.md#por-que-traduzir)  •     [Como contribuir](https://github.com/italomen/glossario_interface/blob/master/COMO_FUNCIONA.md#como-contribuir)
 
 --
 
@@ -24,6 +25,8 @@ Este projeto nasceu para estimular o uso do [português claro](https://pt.wikipe
 ###B
 
 ###C
+- Component → Componente
+- CSS Architecture → Arquitetura do CSS
 
 ###D
 
@@ -50,18 +53,21 @@ Este projeto nasceu para estimular o uso do [português claro](https://pt.wikipe
 ###O
 
 ###P
+- Pattern library → Biblioteca de padrões
 
 ###Q
 
 ###R
 
 ###S
+- Style Guide → Guia de estilo
 
 ###T
 
 ###U
-- [User](https://en.wikipedia.org/wiki/User) → Usuário.
-- [User experience](https://en.wikipedia.org/wiki/User_experience) → Experiência do usuário.<br/>
+- [User](https://en.wikipedia.org/wiki/User) → [Usuário](https://github.com/italomen/glossario_interface/issues/1#issuecomment-226972723).
+- [User experience (UX)](https://en.wikipedia.org/wiki/User_experience) → [Experiência do usuário](https://github.com/italomen/glossario_interface/issues/1#issuecomment-226975868).
+
 ([Ver discussão](https://github.com/italomen/glossario_interface/issues/1))<br/>
 
 ###V
