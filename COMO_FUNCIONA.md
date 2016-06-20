@@ -6,7 +6,7 @@ A comunidade de design e desenvolvimento no Brasil vem se fortalecendo com base 
 
 Ao traduzirmos um termo para o [português claro](https://pt.wikipedia.org/wiki/Portugu%C3%AAs_claro) permitimos que pessoas de outras áreas assimilem seu significado na própria língua nativa, facilitando o entendimento da sua importância, do contexto onde é aplicado, além de permitir que não-falantes da língua inglesa acompanhem a linha de raciocínio.
 
-Existem termos que já se popularizaram em inglês, como é o caso do "_design_". Porém, muitos outros estão sendo apresentados à comunidade diariamente. _Style guide_, _pattern library_, _system design_... Agora é o momento de definir como gostaremos que esses termos cheguem em outras pessoas.
+Existem termos em inglês que já se popularizaram no idioma, como é o caso do "_design_". Porém, muitos outros estão sendo apresentados à comunidade diariamente. _Style guide_, _pattern library_, _design system_... Agora é o momento de definir como gostaremos que esses termos cheguem em outras pessoas.
 
 Traduzir não é uma obrigação. É um gesto de empatia. Uma preocupação em inserir mais brasileiras(os) no debate de ideias sobre interfaces digitais.
 
