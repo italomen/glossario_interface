@@ -20,8 +20,8 @@ Seja bem-vinda(o)!
 2. Indique o termo original com a fonte para a definição.  
 3. Indique a tradução sugerida com a fonte e classifique-a (livre ou direta).
 4. Se achar necessário, faça comentários adicionais ou ajude a melhorar as traduções já sugeridas.
-> **Ex.:**
-> User (original) → Usuário (tradução livre).
+**Ex.:**
+>User (original) → Usuário (tradução livre).
 
 <br/>
 --
